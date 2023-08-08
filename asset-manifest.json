@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashish9599/blog-app.git/static/css/main.45106e77.css",
+    "main.js": "/ashish9599/blog-app.git/static/js/main.0586e89f.js",
+    "index.html": "/ashish9599/blog-app.git/index.html",
+    "main.45106e77.css.map": "/ashish9599/blog-app.git/static/css/main.45106e77.css.map",
+    "main.0586e89f.js.map": "/ashish9599/blog-app.git/static/js/main.0586e89f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45106e77.css",
+    "static/js/main.0586e89f.js"
+  ]
+}
